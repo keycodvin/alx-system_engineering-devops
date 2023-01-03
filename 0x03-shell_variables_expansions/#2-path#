@@ -1,0 +1,2 @@
+#!/binn
+PATH=$PATH:/action' >> ~/.bashrc
