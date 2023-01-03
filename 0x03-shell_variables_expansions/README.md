@@ -4,3 +4,4 @@ This is project is on the topic of variables and expansion in bash scripting
 *the first project is called 0-alias. 0-alias is a script which creates an alias ls which deletes all the files in the current 
 *1-hello_you file prints the name of the current user
 *the file 2-path adds the directory action to the path $PATH
+*the file 3-paths adds counts the number the directories in the path $PATH. It is consisted of three parts. The first is to show the path, then use a tr command to subsitute the colons with a new line and the use the command wc -l to count the all the lines
