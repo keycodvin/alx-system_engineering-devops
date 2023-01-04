@@ -1,2 +1,2 @@
 #!/bin/bash
-9
+echo "$(($POWER / $DIVIDE))\n"

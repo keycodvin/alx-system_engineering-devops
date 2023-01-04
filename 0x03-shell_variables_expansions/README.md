@@ -9,3 +9,4 @@ This is project is on the topic of variables and expansion in bash scripting
 * the file 6-create_local_variable creates a local variable
 *the file 7-create_global_variable creates a new global variable
 *the file 8-true_knowledge is a file which prints out the sum of 128 and the value of $TRUEKNOWLEDGE
+* the file 9-divide_and_rule prints the result of the $POWER / $DIVIDE followed by a new line
