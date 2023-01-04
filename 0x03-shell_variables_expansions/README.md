@@ -8,3 +8,4 @@ This is project is on the topic of variables and expansion in bash scripting
 *the file 5-local_variables shows all the local and environment variables including the functions too
 * the file 6-create_local_variable creates a local variable
 *the file 7-create_global_variable creates a new global variable
+*the file 8-true_knowledge is a file which prints out the sum of 128 and the value of $TRUEKNOWLEDGE
