@@ -11,3 +11,4 @@ This is project is on the topic of variables and expansion in bash scripting
 *the file 8-true_knowledge is a file which prints out the sum of 128 and the value of $TRUEKNOWLEDGE
 * the file 9-divide_and_rule prints the result of the $POWER / $DIVIDE followed by a new line
 *the file 10-love_exponent_breath outputs of the value of breath to the exponent of love
+*the file 11-binary_to_decimal converts a the binary number kept in the variable $BINARY to base 10

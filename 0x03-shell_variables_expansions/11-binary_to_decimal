@@ -1,2 +1,2 @@
-#!/bin/bash
-11
+#!$SHELL
+echo $((2#$BINARY))
