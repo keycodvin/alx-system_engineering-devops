@@ -12,3 +12,4 @@ This is project is on the topic of variables and expansion in bash scripting
 * the file 9-divide_and_rule prints the result of the $POWER / $DIVIDE followed by a new line
 *the file 10-love_exponent_breath outputs of the value of breath to the exponent of love
 *the file 11-binary_to_decimal converts a the binary number kept in the variable $BINARY to base 10
+*the file 12-combinations prints all the combinations of two letters from a to z with oo excluded
